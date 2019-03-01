@@ -27,4 +27,6 @@ function theFunk() {
   console.log(funkyFunction)
 
 }
-
+function funkyFunction(){
+  
+}
